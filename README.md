@@ -1,6 +1,6 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
-1 clonamos el proyecto
+# MarcasDeCochesDelUsuario
+
+ 1 clonamos el proyecto
     git clone URL
 
 2 eliminamos la carpeta .git oculta y cambiamos nombre de la carpeta del proyecto a la deseada 
